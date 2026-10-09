@@ -1,0 +1,5 @@
+class posts:
+    def __init__(self, title: str, content: str, author: str):
+        self.title = title
+        self.content = content
+        self.author = author

@@ -1,0 +1,1 @@
+def remaining(capacity: int, registered: int) -> int:
